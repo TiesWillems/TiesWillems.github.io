@@ -3,7 +3,7 @@
 <html>
 <head>
   <meta charset="UTF-8" />
-  <title>My Website</title>
+  <title>Encyclieken</title>
 </head>
 <body>
   <h1>De Encyclieken de we gaan lezen:</h1>
